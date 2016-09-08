@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>template.jpg</file>
+        <file>bezie.jpg</file>
+        <file>brush.jpg</file>
+        <file>circle.jpg</file>
+        <file>copy.png</file>
+        <file>cut.png</file>
+        <file>lastic.jpg</file>
+        <file>line.jpg</file>
+        <file>new.png</file>
+        <file>open.png</file>
+        <file>paste.png</file>
+        <file>pen.jpg</file>
+        <file>polygon.jpg</file>
+        <file>rectangle.jpg</file>
+        <file>redo.png</file>
+        <file>save.png</file>
+        <file>splash.gif</file>
+        <file>undo.png</file>
+        <file alias="LSI">LSI.ico</file>
+        <file>eraser.bmp</file>
+    </qresource>
+</RCC>
